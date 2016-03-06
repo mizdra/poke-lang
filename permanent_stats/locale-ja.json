@@ -1,0 +1,10 @@
+{
+    "permanent_stats": {
+        "hp"             : "hp",
+        "attack"         : "こうげき",
+        "defense"        : "ぼうぎょ",
+        "special-attack" : "とくこう",
+        "special-defense": "とくぼう",
+        "speed"          : "すばやさ"
+    }
+}

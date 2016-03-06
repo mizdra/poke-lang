@@ -1,0 +1,9 @@
+{
+    "flavors": {
+        "spicy" : "spicy",
+        "dry"   : "dry",
+        "sweet" : "sweet",
+        "bitter": "bitter",
+        "sour"  : "sour"
+    }
+}

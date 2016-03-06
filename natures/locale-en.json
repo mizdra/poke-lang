@@ -1,0 +1,29 @@
+{
+    "natures": {
+        "hardy"  : "hardy",
+        "lonely" : "lonely",
+        "brave"  : "brave",
+        "adamant": "adamant",
+        "naughty": "naughty",
+        "bold"   : "bold",
+        "docile" : "docile",
+        "relaxed": "relaxed",
+        "impish" : "impish",
+        "lax"    : "lax",
+        "timid"  : "timid",
+        "hasty"  : "hasty",
+        "serious": "serious",
+        "jolly"  : "jolly",
+        "naive"  : "naive",
+        "modest" : "modest",
+        "mild"   : "mild",
+        "quiet"  : "quiet",
+        "bashful": "bashful",
+        "rash"   : "rash",
+        "calm"   : "calm",
+        "gentle" : "gentle",
+        "sassy"  : "sassy",
+        "careful": "careful",
+        "quirky" : "quirky"
+    }
+}
