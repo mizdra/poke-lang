@@ -9,5 +9,5 @@ Language data for Pokemon.
 MIT License
 
 # Author
-HN   : mizdra
-Email: <pp.mizdra@gmail.com>
+- HN   : mizdra
+- Email: <pp.mizdra@gmail.com>
